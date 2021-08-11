@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Have breakfast",
+      "day": "March 3, 2021 at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Have lunch",
+      "day": "March 3, 2021 at 5:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Have Dinner",
+      "day": "March 3, 2021 at 12:30am",
+      "reminder": false
+    }
+  ]
+}
